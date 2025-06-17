@@ -19,7 +19,7 @@ bit_coin_data = yf.download(stock, start, end)
 bit_coin_data.columns.name = None
 
 # Load the pre-trained model
-model = load_model("new_bitcoin_model.h5")
+model = load_model("new_bitcoin_model.h5", compile=False)
 
 # Display data
 st.subheader("Bitcoin Data")
