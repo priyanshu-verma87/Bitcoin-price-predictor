@@ -150,3 +150,5 @@ The LSTM architecture consists of:
 | RMSE     | Root Mean Square Error | 2190.06     |
 | MAE      | Mean Absolute Error    | 1611.47     |
 
+## Visualization
+![image](https://github.com/user-attachments/assets/3c774a1d-bfb6-4c87-918f-dd21d56e2292)
